@@ -1,0 +1,20 @@
+body{
+    background-color: #373240;
+    color: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.menu li{
+    display:inline-block;
+    background-color: #000000;
+    margin:20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
